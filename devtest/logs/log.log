@@ -1,0 +1,558 @@
+(N) 2022-10-29T15:35:59 - qBittorrent v4.4.5 started
+(N) 2022-10-29T15:35:59 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-10-29T15:36:01 - Trying to listen on: 0.0.0.0:14444,[::]:14444
+(N) 2022-10-29T15:36:01 - Peer ID: -qB4450-
+(N) 2022-10-29T15:36:01 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-10-29T15:36:01 - DHT support [ON]
+(I) 2022-10-29T15:36:01 - Local Peer Discovery support [ON]
+(I) 2022-10-29T15:36:01 - PeX support [ON]
+(I) 2022-10-29T15:36:01 - Anonymous mode [OFF]
+(I) 2022-10-29T15:36:01 - Encryption support [ON]
+(I) 2022-10-29T15:36:01 - UPnP / NAT-PMP support [ON]
+(W) 2022-10-29T15:36:01 - Couldn't load IP geolocation database. Reason: The system cannot find the path specified.
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 192.168.1.30, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 192.168.1.30, port: UDP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 192.168.56.1, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 192.168.56.1, port: UDP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 127.0.0.1, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 127.0.0.1, port: UDP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 2a10:8003:51a8:0:b5e9:3726:b8e1:71ec, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 2a10:8003:51a8:0:b5e9:3726:b8e1:71ec, port: UDP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 2a10:8003:51a8:0:94d5:a641:9da5:e4aa, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: 2a10:8003:51a8:0:94d5:a641:9da5:e4aa, port: UDP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: ::1, port: TCP/14444
+(I) 2022-10-29T15:36:02 - Successfully listening on IP: ::1, port: UDP/14444
+(I) 2022-10-29T15:36:03 - Detected external IP: 84.109.20.15
+(I) 2022-10-29T15:36:03 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Oct 1 03:29:43 2022.
+(I) 2022-10-29T15:36:03 - Successfully updated IP geolocation database.
+(C) 2022-10-29T15:38:37 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-10-29T15:38:37 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-10-29T15:44:05 - Options saved.
+(I) 2022-10-29T15:44:05 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 2a10:8003:51a8:0:b5e9:3726:b8e1:71ec, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 2a10:8003:51a8:0:b5e9:3726:b8e1:71ec, port: UDP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 2a10:8003:51a8:0:94d5:a641:9da5:e4aa, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: 2a10:8003:51a8:0:94d5:a641:9da5:e4aa, port: UDP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-10-29T15:44:05 - Successfully listening on IP: ::1, port: UDP/63023
+(I) 2022-10-29T15:44:06 - Detected external IP: 84.109.20.15
+(N) 2022-10-29T15:44:33 - 'New Tales from the Borderlands [FitGirl Repack]' added to download list.
+(N) 2022-10-29T15:44:58 - Options saved.
+(C) 2022-10-29T15:46:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-10-29T15:46:41 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-10-29T17:14:47 - UPnP / NAT-PMP support [OFF]
+(N) 2022-11-02T18:21:04 - qBittorrent v4.4.5 started
+(N) 2022-11-02T18:21:04 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-11-02T18:21:04 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-11-02T18:21:04 - Peer ID: -qB4450-
+(N) 2022-11-02T18:21:04 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-02T18:21:04 - DHT support [ON]
+(I) 2022-11-02T18:21:04 - Local Peer Discovery support [ON]
+(I) 2022-11-02T18:21:04 - PeX support [ON]
+(I) 2022-11-02T18:21:04 - Anonymous mode [OFF]
+(I) 2022-11-02T18:21:04 - Encryption support [ON]
+(I) 2022-11-02T18:21:04 - UPnP / NAT-PMP support [ON]
+(I) 2022-11-02T18:21:04 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Sat Oct 1 03:29:43 2022.
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 2a10:8003:53e4:0:b179:c917:22f8:6013, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: 2a10:8003:53e4:0:b179:c917:22f8:6013, port: UDP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-11-02T18:21:04 - Successfully listening on IP: ::1, port: UDP/63023
+(N) 2022-11-02T18:21:04 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-11-02T18:21:04 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' added to download list.
+(C) 2022-11-02T18:21:04 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(I) 2022-11-02T18:21:05 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-11-02T18:21:05 - Successfully updated IP geolocation database.
+(I) 2022-11-02T18:21:07 - Detected external IP: 84.109.20.15
+(C) 2022-11-02T18:23:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-02T18:23:40 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-02T21:50:54 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-02T21:50:54 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-02T21:50:54 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-02T21:50:54 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: 2a10:8003:53e4:0:b179:c917:22f8:6013, port: TCP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: 2a10:8003:53e4:0:b179:c917:22f8:6013, port: UDP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-02T21:50:56 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-02T21:50:57 - Detected external IP: 84.109.20.15
+(C) 2022-11-02T21:53:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-02T21:53:30 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-02T22:47:42 - UPnP / NAT-PMP support [OFF]
+(N) 2022-11-04T14:44:50 - qBittorrent v4.4.5 started
+(N) 2022-11-04T14:44:50 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-11-04T14:44:50 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-11-04T14:44:50 - Peer ID: -qB4450-
+(N) 2022-11-04T14:44:50 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-04T14:44:50 - DHT support [ON]
+(I) 2022-11-04T14:44:50 - Local Peer Discovery support [ON]
+(I) 2022-11-04T14:44:50 - PeX support [ON]
+(I) 2022-11-04T14:44:50 - Anonymous mode [OFF]
+(I) 2022-11-04T14:44:50 - Encryption support [ON]
+(I) 2022-11-04T14:44:50 - UPnP / NAT-PMP support [ON]
+(I) 2022-11-04T14:44:50 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 2a10:8003:53e4:0:5cf6:67b7:1fa0:ca69, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: 2a10:8003:53e4:0:5cf6:67b7:1fa0:ca69, port: UDP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-11-04T14:44:51 - Successfully listening on IP: ::1, port: UDP/63023
+(N) 2022-11-04T14:44:51 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-11-04T14:44:51 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' restored.
+(N) 2022-11-04T14:44:51 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' added to download list.
+(C) 2022-11-04T14:44:51 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(I) 2022-11-04T14:44:53 - Detected external IP: 84.109.20.15
+(C) 2022-11-04T14:47:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-04T14:47:26 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-11-07T16:24:39 - qBittorrent v4.4.5 started
+(N) 2022-11-07T16:24:39 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-11-07T16:24:39 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-11-07T16:24:39 - Peer ID: -qB4450-
+(N) 2022-11-07T16:24:39 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-07T16:24:39 - DHT support [ON]
+(I) 2022-11-07T16:24:39 - Local Peer Discovery support [ON]
+(I) 2022-11-07T16:24:39 - PeX support [ON]
+(I) 2022-11-07T16:24:39 - Anonymous mode [OFF]
+(I) 2022-11-07T16:24:39 - Encryption support [ON]
+(I) 2022-11-07T16:24:39 - UPnP / NAT-PMP support [ON]
+(I) 2022-11-07T16:24:39 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 2a10:8003:53e4:0:4dc9:4068:82dc:eb10, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: 2a10:8003:53e4:0:4dc9:4068:82dc:eb10, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-11-07T16:24:40 - Successfully listening on IP: ::1, port: UDP/63023
+(I) 2022-11-07T16:24:40 - Detected external IP: 84.109.20.15
+(N) 2022-11-07T16:24:40 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-11-07T16:24:40 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' restored.
+(N) 2022-11-07T16:24:41 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' restored.
+(N) 2022-11-07T16:24:41 - 'Kerbal Space Program: Complete Edition (v1.12.4.3187 + 2 DLCs + Bonus OST, MULTi9) [FitGirl Repack]' added to download list.
+(C) 2022-11-07T16:24:41 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(C) 2022-11-07T16:27:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-07T16:27:15 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-07T18:33:37 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-07T18:33:37 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-07T18:33:37 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-07T18:33:37 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: 2a10:8003:53e4:0:4dc9:4068:82dc:eb10, port: TCP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: 2a10:8003:53e4:0:4dc9:4068:82dc:eb10, port: UDP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-07T18:33:39 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(C) 2022-11-07T18:36:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-07T18:36:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-07T21:08:49 - UPnP / NAT-PMP support [OFF]
+(N) 2022-11-13T23:22:34 - qBittorrent v4.4.5 started
+(N) 2022-11-13T23:22:34 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-11-13T23:22:34 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-11-13T23:22:34 - Peer ID: -qB4450-
+(N) 2022-11-13T23:22:34 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-13T23:22:34 - DHT support [ON]
+(I) 2022-11-13T23:22:34 - Local Peer Discovery support [ON]
+(I) 2022-11-13T23:22:34 - PeX support [ON]
+(I) 2022-11-13T23:22:34 - Anonymous mode [OFF]
+(I) 2022-11-13T23:22:34 - Encryption support [ON]
+(I) 2022-11-13T23:22:34 - UPnP / NAT-PMP support [ON]
+(I) 2022-11-13T23:22:34 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 2a10:8003:53e4:0:a04a:2d75:f1ce:3c65, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: 2a10:8003:53e4:0:a04a:2d75:f1ce:3c65, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-11-13T23:22:34 - Successfully listening on IP: ::1, port: UDP/63023
+(I) 2022-11-13T23:22:34 - Detected external IP: 84.109.20.15
+(I) 2022-11-13T23:22:34 - Detected external IP: 2a10:8003:53e4:0:a04a:2d75:f1ce:3c65
+(I) 2022-11-13T23:22:34 - Detected external IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e
+(N) 2022-11-13T23:22:35 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-11-13T23:22:35 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' restored.
+(N) 2022-11-13T23:22:35 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' restored.
+(N) 2022-11-13T23:22:35 - 'Kerbal Space Program: Complete Edition (v1.12.4.3187 + 2 DLCs + Bonus OST, MULTi9) [FitGirl Repack]' restored.
+(C) 2022-11-13T23:22:35 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(N) 2022-11-13T23:22:35 - 'Belle Delphine's Ultimate Archive by 0equals0 and Fissuh' added to download list.
+(W) 2022-11-13T23:23:34 - 'Belle Delphine's Ultimate Archive by 0equals0 and Fissuh' was removed from the transfer list but the files couldn't be deleted. Error: The directory is not empty
+(C) 2022-11-13T23:25:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-13T23:25:10 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-14T00:14:37 - UPnP / NAT-PMP support [OFF]
+(N) 2022-11-14T22:13:22 - qBittorrent v4.4.5 started
+(N) 2022-11-14T22:13:22 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-11-14T22:13:22 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-11-14T22:13:22 - Peer ID: -qB4450-
+(N) 2022-11-14T22:13:22 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-14T22:13:22 - DHT support [ON]
+(I) 2022-11-14T22:13:22 - Local Peer Discovery support [ON]
+(I) 2022-11-14T22:13:22 - PeX support [ON]
+(I) 2022-11-14T22:13:22 - Anonymous mode [OFF]
+(I) 2022-11-14T22:13:22 - Encryption support [ON]
+(I) 2022-11-14T22:13:22 - UPnP / NAT-PMP support [ON]
+(I) 2022-11-14T22:13:22 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 2a10:8003:53e4:0:edb6:f0e4:653e:c661, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: 2a10:8003:53e4:0:edb6:f0e4:653e:c661, port: UDP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-11-14T22:13:24 - Successfully listening on IP: ::1, port: UDP/63023
+(N) 2022-11-14T22:13:24 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-11-14T22:13:24 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' restored.
+(N) 2022-11-14T22:13:24 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' restored.
+(N) 2022-11-14T22:13:24 - 'Kerbal Space Program: Complete Edition (v1.12.4.3187 + 2 DLCs + Bonus OST, MULTi9) [FitGirl Repack]' restored.
+(N) 2022-11-14T22:13:24 - 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]' added to download list.
+(C) 2022-11-14T22:13:24 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(I) 2022-11-14T22:13:25 - Detected external IP: 84.109.20.15
+(C) 2022-11-14T22:15:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-14T22:15:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-15T10:22:44 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-15T10:22:44 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-15T10:22:44 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-15T10:22:44 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-15T10:22:46 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-15T10:22:46 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-15T10:22:46 - Successfully listening on IP: 2a10:8003:53e4:0:edb6:f0e4:653e:c661, port: TCP/63023
+(I) 2022-11-15T10:22:46 - Successfully listening on IP: 2a10:8003:53e4:0:edb6:f0e4:653e:c661, port: UDP/63023
+(I) 2022-11-15T10:22:46 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-15T10:22:46 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-15T10:22:49 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-15T10:22:49 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(C) 2022-11-15T10:25:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-15T10:25:25 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-15T11:00:18 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-15T11:00:18 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-15T11:00:18 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-15T11:00:18 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: 2a10:8003:53e4:0:edb6:f0e4:653e:c661, port: TCP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: 2a10:8003:53e4:0:edb6:f0e4:653e:c661, port: UDP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-15T11:00:20 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(C) 2022-11-15T11:02:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-15T11:02:54 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-15T16:37:03 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-15T16:37:03 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-15T16:37:03 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-15T16:37:03 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-15T16:37:05 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-15T16:37:05 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-15T16:37:05 - Successfully listening on IP: 2a10:8003:53e4:0:5c29:98a4:2a2f:cd2d, port: TCP/63023
+(I) 2022-11-15T16:37:05 - Successfully listening on IP: 2a10:8003:53e4:0:5c29:98a4:2a2f:cd2d, port: UDP/63023
+(I) 2022-11-15T16:37:05 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-15T16:37:05 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-15T16:37:09 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-15T16:37:09 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(C) 2022-11-15T16:39:39 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-15T16:39:39 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-15T18:27:08 - UPnP / NAT-PMP support [OFF]
+(N) 2022-11-18T23:45:48 - qBittorrent v4.4.5 started
+(N) 2022-11-18T23:45:48 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-11-18T23:45:48 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-11-18T23:45:48 - Peer ID: -qB4450-
+(N) 2022-11-18T23:45:48 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-18T23:45:48 - DHT support [ON]
+(I) 2022-11-18T23:45:48 - Local Peer Discovery support [ON]
+(I) 2022-11-18T23:45:48 - PeX support [ON]
+(I) 2022-11-18T23:45:48 - Anonymous mode [OFF]
+(I) 2022-11-18T23:45:48 - Encryption support [ON]
+(I) 2022-11-18T23:45:48 - UPnP / NAT-PMP support [ON]
+(I) 2022-11-18T23:45:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 2a10:8003:53e4:0:59b8:e903:a102:f233, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: 2a10:8003:53e4:0:59b8:e903:a102:f233, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-11-18T23:45:48 - Successfully listening on IP: ::1, port: UDP/63023
+(I) 2022-11-18T23:45:48 - Detected external IP: 84.109.20.15
+(I) 2022-11-18T23:45:48 - Detected external IP: 2a10:8003:53e4:0:59b8:e903:a102:f233
+(I) 2022-11-18T23:45:48 - Detected external IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e
+(N) 2022-11-18T23:45:48 - 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]' restored.
+(N) 2022-11-18T23:45:48 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-11-18T23:45:48 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' restored.
+(N) 2022-11-18T23:45:48 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' restored.
+(N) 2022-11-18T23:45:48 - 'Kerbal Space Program: Complete Edition (v1.12.4.3187 + 2 DLCs + Bonus OST, MULTi9) [FitGirl Repack]' restored.
+(N) 2022-11-18T23:45:48 - 'Goat Simulator 3 (v208081 + Multiplayer, MULTi12) [FitGirl Repack]' added to download list.
+(C) 2022-11-18T23:45:49 - File sizes mismatch for torrent 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]'. Cannot proceed further.
+(C) 2022-11-18T23:45:49 - File sizes mismatch for torrent 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]'. Cannot proceed further.
+(C) 2022-11-18T23:45:49 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(C) 2022-11-18T23:48:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-18T23:48:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-19T00:06:37 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-19T00:06:37 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-19T00:06:37 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-19T00:06:37 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: 2a10:8003:53e4:0:59b8:e903:a102:f233, port: TCP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: 2a10:8003:53e4:0:59b8:e903:a102:f233, port: UDP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-19T00:06:40 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-19T00:06:41 - Detected external IP: 84.109.20.15
+(I) 2022-11-19T00:06:47 - Detected external IP: 2a10:8003:53e4:0:59b8:e903:a102:f233
+(I) 2022-11-19T00:06:47 - Detected external IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e
+(C) 2022-11-19T00:09:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-19T00:09:13 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-19T01:49:22 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-19T01:49:22 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-19T01:49:22 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-19T01:49:22 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-19T01:49:24 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-19T01:49:24 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-19T01:49:24 - Successfully listening on IP: 2a10:8003:53e4:0:59b8:e903:a102:f233, port: TCP/63023
+(I) 2022-11-19T01:49:24 - Successfully listening on IP: 2a10:8003:53e4:0:59b8:e903:a102:f233, port: UDP/63023
+(I) 2022-11-19T01:49:24 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-19T01:49:24 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-19T01:49:25 - Detected external IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e
+(I) 2022-11-19T01:49:26 - Detected external IP: 2a10:8003:53e4:0:59b8:e903:a102:f233
+(I) 2022-11-19T01:49:28 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-19T01:49:28 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-19T01:49:28 - Detected external IP: 84.109.20.15
+(C) 2022-11-19T01:51:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-19T01:51:58 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-19T03:28:29 - UPnP / NAT-PMP support [OFF]
+(N) 2022-11-20T03:54:51 - qBittorrent v4.4.5 started
+(N) 2022-11-20T03:54:51 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-11-20T03:54:51 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-11-20T03:54:51 - Peer ID: -qB4450-
+(N) 2022-11-20T03:54:51 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-11-20T03:54:51 - DHT support [ON]
+(I) 2022-11-20T03:54:51 - Local Peer Discovery support [ON]
+(I) 2022-11-20T03:54:51 - PeX support [ON]
+(I) 2022-11-20T03:54:51 - Anonymous mode [OFF]
+(I) 2022-11-20T03:54:51 - Encryption support [ON]
+(I) 2022-11-20T03:54:51 - UPnP / NAT-PMP support [ON]
+(I) 2022-11-20T03:54:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 2a10:8003:53e4:0:d0cf:1b0:56cb:b89f, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: 2a10:8003:53e4:0:d0cf:1b0:56cb:b89f, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-11-20T03:54:53 - Successfully listening on IP: ::1, port: UDP/63023
+(I) 2022-11-20T03:54:53 - Detected external IP: 84.109.20.15
+(I) 2022-11-20T03:54:53 - Detected external IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e
+(I) 2022-11-20T03:54:53 - Detected external IP: 2a10:8003:53e4:0:d0cf:1b0:56cb:b89f
+(N) 2022-11-20T03:54:53 - 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]' restored.
+(N) 2022-11-20T03:54:53 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-11-20T03:54:53 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' restored.
+(N) 2022-11-20T03:54:53 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' restored.
+(N) 2022-11-20T03:54:53 - 'Kerbal Space Program: Complete Edition (v1.12.4.3187 + 2 DLCs + Bonus OST, MULTi9) [FitGirl Repack]' restored.
+(N) 2022-11-20T03:54:53 - 'Goat Simulator 3 (v208081 + Multiplayer, MULTi12) [FitGirl Repack]' restored.
+(N) 2022-11-20T03:54:53 - 'Floodland (v1.0.20915/Hotfix 01, MULTi12) [FitGirl Repack]' added to download list.
+(C) 2022-11-20T03:54:54 - File sizes mismatch for torrent 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]'. Cannot proceed further.
+(C) 2022-11-20T03:54:54 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(C) 2022-11-20T03:54:54 - File sizes mismatch for torrent 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]'. Cannot proceed further.
+(C) 2022-11-20T03:57:27 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-11-20T03:57:27 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-11-20T04:54:22 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-11-20T04:54:22 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-11-20T04:54:22 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-11-20T04:54:22 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: 2a10:8003:53e4:0:d0cf:1b0:56cb:b89f, port: TCP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: 2a10:8003:53e4:0:d0cf:1b0:56cb:b89f, port: UDP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-11-20T04:54:24 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-11-20T04:54:52 - UPnP / NAT-PMP support [OFF]
+(N) 2022-12-09T01:09:48 - qBittorrent v4.4.5 started
+(N) 2022-12-09T01:09:48 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-12-09T01:09:48 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-12-09T01:09:48 - Peer ID: -qB4450-
+(N) 2022-12-09T01:09:48 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-12-09T01:09:48 - DHT support [ON]
+(I) 2022-12-09T01:09:48 - Local Peer Discovery support [ON]
+(I) 2022-12-09T01:09:48 - PeX support [ON]
+(I) 2022-12-09T01:09:48 - Anonymous mode [OFF]
+(I) 2022-12-09T01:09:48 - Encryption support [ON]
+(I) 2022-12-09T01:09:48 - UPnP / NAT-PMP support [ON]
+(I) 2022-12-09T01:09:48 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Tue Nov 1 03:27:56 2022.
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 2a10:8003:53e4:0:d800:4388:3d6e:7ab6, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: 2a10:8003:53e4:0:d800:4388:3d6e:7ab6, port: UDP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-12-09T01:09:49 - Successfully listening on IP: ::1, port: UDP/63023
+(N) 2022-12-09T01:09:49 - 'Floodland (v1.0.20915/Hotfix 01, MULTi12) [FitGirl Repack]' restored.
+(N) 2022-12-09T01:09:49 - 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]' restored.
+(N) 2022-12-09T01:09:49 - 'New Tales from the Borderlands [FitGirl Repack]' restored.
+(N) 2022-12-09T01:09:49 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' restored.
+(N) 2022-12-09T01:09:49 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' restored.
+(N) 2022-12-09T01:09:49 - 'Kerbal Space Program: Complete Edition (v1.12.4.3187 + 2 DLCs + Bonus OST, MULTi9) [FitGirl Repack]' restored.
+(N) 2022-12-09T01:09:49 - 'Goat Simulator 3 (v208081 + Multiplayer, MULTi12) [FitGirl Repack]' restored.
+(N) 2022-12-09T01:09:49 - 'IXION: Deluxe Edition (v1.0.0.3 + Bonus Content, MULTi8) [FitGirl Repack, Selective Download - from 2.7 GB]' added to download list.
+(C) 2022-12-09T01:09:49 - File sizes mismatch for torrent 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]'. Cannot proceed further.
+(C) 2022-12-09T01:09:49 - File sizes mismatch for torrent 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]'. Cannot proceed further.
+(C) 2022-12-09T01:09:49 - File sizes mismatch for torrent 'New Tales from the Borderlands [FitGirl Repack]'. Cannot proceed further.
+(I) 2022-12-09T01:09:50 - Detected external IP: 84.109.20.15
+(I) 2022-12-09T01:09:51 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Dec 1 03:29:19 2022.
+(I) 2022-12-09T01:09:51 - Successfully updated IP geolocation database.
+(C) 2022-12-09T01:12:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-12-09T01:12:24 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(N) 2022-12-09T08:21:36 - 'Floodland (v1.0.20915/Hotfix 01, MULTi12) [FitGirl Repack]' was removed from the transfer list.
+(N) 2022-12-09T08:21:36 - 'Goat Simulator 3 (v208081 + Multiplayer, MULTi12) [FitGirl Repack]' was removed from the transfer list.
+(N) 2022-12-09T08:21:36 - 'IXION: Deluxe Edition (v1.0.0.3 + Bonus Content, MULTi8) [FitGirl Repack, Selective Download - from 2.7 GB]' was removed from the transfer list.
+(N) 2022-12-09T08:21:36 - 'Kerbal Space Program: Complete Edition (v1.12.4.3187 + 2 DLCs + Bonus OST, MULTi9) [FitGirl Repack]' was removed from the transfer list.
+(N) 2022-12-09T08:21:36 - 'LEGO Star Wars: The Skywalker Saga (v1.09 + 10 DLCs + Windows 7/8.1 Fixes, MULTi15) [FitGirl Repack, Selective Download - from 19.7 GB]' was removed from the transfer list.
+(N) 2022-12-09T08:21:36 - 'New Tales from the Borderlands [FitGirl Repack]' was removed from the transfer list.
+(N) 2022-12-09T08:21:36 - 'Sex Chess (Build 9917588, ENG/RUS) [FitGirl Repack, Selective Download - from 2.1 GB]' was removed from the transfer list.
+(N) 2022-12-09T08:21:36 - 'The Entropy Centre (v1.0.7, MULTi13) [FitGirl Repack]' was removed from the transfer list.
+(I) 2022-12-09T12:15:58 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-12-09T12:15:58 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-12-09T12:15:58 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-12-09T12:15:58 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: 2a10:8003:53e4:0:d800:4388:3d6e:7ab6, port: TCP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: 2a10:8003:53e4:0:d800:4388:3d6e:7ab6, port: UDP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-12-09T12:15:59 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(C) 2022-12-09T12:18:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(C) 2022-12-09T12:18:34 - UPnP/NAT-PMP: Port mapping failure, message: could not map port using UPnP: no router found
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: 2a10:8003:53e4:0:d800:4388:3d6e:7ab6, port: TCP/63023
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: 2a10:8003:53e4:0:d800:4388:3d6e:7ab6, port: UDP/63023
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-12-09T12:22:41 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-12-09T12:23:11 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-12-09T12:23:11 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-12-09T12:23:11 - Successfully listening on IP: 2a10:8003:53e4:0:7ca3:8b14:45b8:51c, port: TCP/63023
+(I) 2022-12-09T12:23:11 - Successfully listening on IP: 2a10:8003:53e4:0:7ca3:8b14:45b8:51c, port: UDP/63023
+(I) 2022-12-09T12:46:13 - UPnP / NAT-PMP support [OFF]
+(N) 2022-12-16T02:21:49 - qBittorrent v4.4.5 started
+(N) 2022-12-16T02:21:49 - Using config directory: C:/Users/dord3/AppData/Roaming/qBittorrent
+(I) 2022-12-16T02:21:49 - Trying to listen on: 0.0.0.0:63023,[::]:63023
+(N) 2022-12-16T02:21:49 - Peer ID: -qB4450-
+(N) 2022-12-16T02:21:49 - HTTP User-Agent is 'qBittorrent/4.4.5'
+(I) 2022-12-16T02:21:49 - DHT support [ON]
+(I) 2022-12-16T02:21:49 - Local Peer Discovery support [ON]
+(I) 2022-12-16T02:21:49 - PeX support [ON]
+(I) 2022-12-16T02:21:49 - Anonymous mode [OFF]
+(I) 2022-12-16T02:21:49 - Encryption support [ON]
+(I) 2022-12-16T02:21:49 - UPnP / NAT-PMP support [ON]
+(I) 2022-12-16T02:21:49 - IP geolocation database loaded. Type: DBIP-Country-Lite. Build time: Thu Dec 1 03:29:19 2022.
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 192.168.1.30, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 192.168.1.30, port: UDP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 192.168.56.1, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 192.168.56.1, port: UDP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 127.0.0.1, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 127.0.0.1, port: UDP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 2a10:8003:53e4:0:9d85:1404:4984:e33e, port: UDP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 2a10:8003:53e4:0:d2e:9c7f:f86e:7469, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: 2a10:8003:53e4:0:d2e:9c7f:f86e:7469, port: UDP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: fe80::ab61:a7fb:3e9c:3466%3, port: UDP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: fe80::3eb1:9d3c:f43b:26a9%7, port: UDP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: ::1, port: TCP/63023
+(I) 2022-12-16T02:21:50 - Successfully listening on IP: ::1, port: UDP/63023
+(N) 2022-12-16T02:21:50 - 'High On Life (+ Windows 7 Fix, MULTI5) [FitGirl Repack, Selective Download - from 29.8 GB]' added to download list.
+(I) 2022-12-16T02:21:52 - Detected external IP: 84.109.20.15
